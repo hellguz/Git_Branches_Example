@@ -7,12 +7,12 @@ This is our shared city guide — everyone can add their own section!
 
 ## About Mapletan
 
-| Detail           | Info                 |
-| ---------------- | -------------------- |
-| 👥 **Population** | 50,000               |
-| 📅 **Founded**    | 1892                 |
-| 🏛️ **Mayor**      | Ada Rivers           |
-| 💬 **Motto**      | *"Together we grow"* |
+| Detail | Info |
+|---|---|
+| 👥 **Population** | 52,400 |
+| 📅 **Founded** | 1892 |
+| 🏛️ **Mayor** | Ada Rivers |
+| 💬 **Motto** | *"Together we grow"* |
 
 ---
 
