@@ -1,18 +1,18 @@
-# 🏙️ Welcome to Mapleton
+# 🏙️ Welcome to Mapletan
 
 A fictional city we're building **together** in this repo.
 This is our shared city guide — everyone can add their own section!
 
 ---
 
-## About Mapleton
+## About Mapletan
 
-| Detail | Info |
-|---|---|
-| 👥 **Population** | 50,000 |
-| 📅 **Founded** | 1892 |
-| 🏛️ **Mayor** | Ada Rivers |
-| 💬 **Motto** | *"Together we grow"* |
+| Detail           | Info                 |
+| ---------------- | -------------------- |
+| 👥 **Population** | 50,000               |
+| 📅 **Founded**    | 1892                 |
+| 🏛️ **Mayor**      | Ada Rivers           |
+| 💬 **Motto**      | *"Together we grow"* |
 
 ---
 
