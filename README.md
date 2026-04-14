@@ -24,6 +24,13 @@ This is our shared city guide — everyone can add their own section!
 
 ---
 
+## Getting Around 🚌
+
+Mapleton is a very walkable city, but there are plenty of ways to get around.
+
+- **Bus network** — 8 lines, runs every 10 minutes during peak hours
+- **Bike lanes** — 40 km of protected paths connecting all neighborhoods
+- **Train station** — direct connections to 5 nearby cities
 ## Parks & Green Spaces 🌳
 
 Mapleton has **12 parks** spread across all neighborhoods.
