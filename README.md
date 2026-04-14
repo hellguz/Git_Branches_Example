@@ -24,4 +24,14 @@ This is our shared city guide — everyone can add their own section!
 
 ---
 
+## Parks & Green Spaces 🌳
+
+Mapleton has **12 parks** spread across all neighborhoods.
+
+- **Central Park** — the largest park, perfect for picnics and weekend markets
+- **Riverside Walk** — a 3 km path along the river with benches and trees
+- **Northhill Garden** — a community garden where residents grow their own veggies
+
+---
+
 *Want to contribute? Pick a topic and open a Pull Request! 🚀*
