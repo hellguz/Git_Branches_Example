@@ -9,7 +9,7 @@ This is our shared city guide — everyone can add their own section!
 
 | Detail | Info |
 |---|---|
-| 👥 **Population** | 50,000 |
+| 👥 **Population** | 48,900 |
 | 📅 **Founded** | 1892 |
 | 🏛️ **Mayor** | Ada Rivers |
 | 💬 **Motto** | *"Together we grow"* |
